@@ -12,7 +12,7 @@ Contact: adeebnajeeb767@gmail.com · https://www.linkedin.com/in/adeeb-shaikh-52
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | 10/22/2026 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail |  |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
