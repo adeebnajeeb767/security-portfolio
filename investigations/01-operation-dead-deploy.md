@@ -16,9 +16,8 @@ Step 1: The first step was to locate the offender. I started off by navigating t
 
 Step 2: The second step was to inspect the payload. While inspecting this resource group, I checked the tags and found the tag the intern was instructed to use to document test resources. This gave me another clue that I was looking at the right resource group.
 
-Step 3: The third step was to trace the deployment. I went over to the Deployments blade and found a single successful deployment. Its name gave me an idea of who might have run it, and the Last modified column showed May 24, 2026, at 5:42:45 PM. This was a starting point for the incident timeline, but I would still need to check the Activity Log to confirm who performed the deployment and the event time. The screenshot does not show the timezone.
+Step 3: The third step was to trace the deployment. I went over to the Deployments blade and found a single successful deployment. Its name gave me an idea of who might have run it, and the Last modified column showed May 24, 2026, at 5:42:45 PM. This was a starting point for the incident timeline, but I would still need to check the Activity Log to confirm who performed the deployment and the event time.
 
-![Deployment list showing its name, successful status, and last modified time](images/operation-dead-deploy/02-deployment-details.png)
 
 ![Deployments blade for testdeploy123 with the deployment name redacted](images/operation-dead-deploy/03-deployments-blade.png)
 
