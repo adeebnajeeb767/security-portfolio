@@ -5,14 +5,14 @@
 Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
-Target role: SOC Analyst / Security Analyst
-Currently: [your role] | [City / Remote]
-Contact: [email] · [LinkedIn URL]
+Target role: SOC Analyst
+Currently: Autonomous Vehicle Roadside Assistance | Miami, Florida
+Contact: adeebnajeeb767@gmail.com · https://www.linkedin.com/in/adeeb-shaikh-52ab553b0/?isSelfProfile=true
 
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | 10/22/2026 |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
